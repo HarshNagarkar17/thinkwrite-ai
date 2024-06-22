@@ -17,5 +17,6 @@ export const config = {
     jwt: {
       secret: process.env.SECRET,
     },
-    mongo:process.env.MONGO_URI
+    mongo:process.env.MONGO_URI,
+    model_api:process.env.MODEL_API
 }

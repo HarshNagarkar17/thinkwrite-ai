@@ -5,3 +5,4 @@ server/node_modules
 client/types
 
 server/.env
+server/images
