@@ -1,8 +1,7 @@
 client/node_modules
-server/node_modules
-
 #lol
 client/types
 
+server/node_modules
 server/.env
 server/images
